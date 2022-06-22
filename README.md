@@ -1,4 +1,4 @@
-# Encryption Decryption Program app - Python
+# Encryption Decryption Program app - Python 
 
 in this app - you can input text and key and show in screen or file.
 you can take file where was text or key and show result in screen of the file.
