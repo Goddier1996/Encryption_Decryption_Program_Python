@@ -4,7 +4,7 @@ in this app - you can input text and key and show in screen or file.
 you can take file where was text or key and show result in screen of the file.
 
  
-# video project :
+# video :
 
 https://user-images.githubusercontent.com/59862302/179348953-1bd64162-dd2d-4435-851a-9f4f89806d0a.mp4
 
